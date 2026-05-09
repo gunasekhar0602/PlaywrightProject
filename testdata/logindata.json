@@ -1,0 +1,15 @@
+[
+    {
+        "testName":"Valid login",
+        "email":"Raymundo_Bechtelar14@yahoo.com",
+        "password":"4luxiNBFE_I6uAt",
+        "expected":"success"
+    },
+
+    {
+        "testName":"Invalid login",
+        "email":"pol@abc.com",
+        "password":"tes11t@23",
+        "expected":"failure"   
+    }
+]

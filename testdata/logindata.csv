@@ -1,0 +1,3 @@
+testname,email,password,expected
+Valid login,Raymundo_Bechtelar14@yahoo.com,4luxiNBFE_I6uAt,success
+Invalid login,pol@abc.com,tes11t@23,failure
