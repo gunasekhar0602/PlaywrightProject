@@ -86,3 +86,5 @@ test('user registration test @master @sanity @regression',async({})=>
     expect(confirmationmessage).toContain('Your Account Has Been Created!');
 
 })
+
+//http://localhost:8080/user/guna/
