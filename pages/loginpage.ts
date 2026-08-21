@@ -12,7 +12,7 @@ export class LoginPage
     constructor(page:Page)
     {
         this.page=page;
-        this.EmailTextBox=page.locator('#input-email');
+        this.EmailTextBox=page.locator('#input-emahhil');
         this.PasswordTextBox=page.locator('#input-password');
         this.SubmitButton=page.locator('//input[@value="Login"]');
         this.ErrorMessageText=page.locator('.alert.alert-danger.alert-dismissible')
